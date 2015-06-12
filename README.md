@@ -1,5 +1,6 @@
-[![Issue Stats](http://issuestats.com/github/electrolyte/electrolyte/badge/pr)](http://issuestats.com/github/electrolyte/electrolyte)
-[![Issue Stats](http://issuestats.com/github/electrolyte/electrolyte/badge/issue)](http://issuestats.com/github/electrolyte/electrolyte)
+[![Issue Stats](http://issuestats.com/github/electrolyte/electrolyte/badge/pr?style=flat)](http://issuestats.com/github/electrolyte/electrolyte)
+[![Issue Stats](http://issuestats.com/github/electrolyte/electrolyte/badge/issue?style=flat)](http://issuestats.com/github/electrolyte/electrolyte)
+![](https://reposs.herokuapp.com/?path=electrolyte/electrolyte&style=flat)
 
 # Electrolyte
 
