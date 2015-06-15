@@ -1,6 +1,4 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/qyiu5o84oh2gwxfh?svg=true)](https://ci.appveyor.com/project/AlanBarber/electrolyte)
-[![Issue Stats](http://issuestats.com/github/electrolyte/electrolyte/badge/pr?style=flat)](http://issuestats.com/github/electrolyte/electrolyte)
-[![Issue Stats](http://issuestats.com/github/electrolyte/electrolyte/badge/issue?style=flat)](http://issuestats.com/github/electrolyte/electrolyte)
+[![Build status](https://ci.appveyor.com/api/projects/status/x576xyqfpsfpj7kh?svg=true)](https://ci.appveyor.com/project/Electrolyte/electrolyte)
 ![](https://reposs.herokuapp.com/?path=electrolyte/electrolyte&style=flat)
 
 # Electrolyte
